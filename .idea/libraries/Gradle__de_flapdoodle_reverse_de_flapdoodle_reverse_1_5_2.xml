@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: de.flapdoodle.reverse:de.flapdoodle.reverse:1.5.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="de.flapdoodle.reverse" artifactId="de.flapdoodle.reverse" version="1.5.2" baseVersion="1.5.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.flapdoodle.reverse/de.flapdoodle.reverse/1.5.2/2e99b883bdeedbc47df87400db5d5df7be94ea4b/de.flapdoodle.reverse-1.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
