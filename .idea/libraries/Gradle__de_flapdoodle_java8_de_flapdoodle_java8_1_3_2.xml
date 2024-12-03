@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: de.flapdoodle.java8:de.flapdoodle.java8:1.3.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="de.flapdoodle.java8" artifactId="de.flapdoodle.java8" version="1.3.2" baseVersion="1.3.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.flapdoodle.java8/de.flapdoodle.java8/1.3.2/e65838bd1f0d11b4d275efaf3b4612901f668c8e/de.flapdoodle.java8-1.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

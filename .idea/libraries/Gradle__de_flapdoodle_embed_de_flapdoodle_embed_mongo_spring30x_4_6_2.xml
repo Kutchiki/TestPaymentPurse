@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: de.flapdoodle.embed:de.flapdoodle.embed.mongo.spring30x:4.6.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="de.flapdoodle.embed" artifactId="de.flapdoodle.embed.mongo.spring30x" version="4.6.2" baseVersion="4.6.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring30x/4.6.2/fec0173ac67fad67f845aaabfc131cce716e3a6d/de.flapdoodle.embed.mongo.spring30x-4.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
